@@ -185,7 +185,7 @@ th:first-child{
 
 .img-adjust{
     height: 196px;
-    width: 400px;
+    width: 100%;
     position: absolute;
     background-color: black;
     top: 0;
